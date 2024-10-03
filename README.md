@@ -1,3 +1,12 @@
+# Vector Field Visualizer with SFML
+
+From this directory, build the project with: `mkdir build` `cd build` `cmake ../` `make -j4`
+
+Then, run the program with `./bin/vector_fields`
+
+The program displays a visualization of particles moving throughout a vector field. The parameters for the simulation may be changed in `src/main.cpp`.
+
+
 # CMake SFML Project Template
 
 This repository template should allow for a fast and hassle-free kick start of your next SFML project using CMake.
